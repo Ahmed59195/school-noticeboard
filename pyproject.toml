@@ -1,8 +1,6 @@
-[project]
+[tool.poetry]
 name = "noticeboard"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+description = ""
+authors = ["Your Name <you@example.com>"]
 package-mode = false
